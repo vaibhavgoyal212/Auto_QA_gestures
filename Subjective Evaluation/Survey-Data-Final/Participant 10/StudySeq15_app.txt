@@ -1,0 +1,4 @@
+Cond_BA: 40
+Cond_N: 65
+Cond_New: 35
+Cond_SC: 50

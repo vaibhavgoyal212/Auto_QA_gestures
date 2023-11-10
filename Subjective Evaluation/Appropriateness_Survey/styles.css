@@ -1,0 +1,16 @@
+.slider {
+	-webkit-appearance: slider-vertical;
+	width: 25px;
+	height: 100%;
+}
+
+.slider::-webkit-slider-thumb {
+	-webkit-appearance: slider-vertical; /* Override default look */
+	width: 25px; /* Set a specific slider handle width */
+	height: 25px; /* Slider handle height */
+}
+
+.quality {
+	position: relative;
+	z-index: 2;
+}	

@@ -1,0 +1,4 @@
+Since the videos for the Cond_New Studyseqs were lost,
+these bvh files are generated from a different iteration
+of that gesture synthesis model. We try to see if these 
+videos are similar to the original videos, but they are not.

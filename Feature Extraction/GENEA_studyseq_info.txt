@@ -1,0 +1,48 @@
+Starting Time of each StudySeq from the 2020 GENEA Challenge evaluation (Corresponding Transcript/StartTime-EndTime/FirstWord-LastWord/RealLength):
+StartTime is the start_time of the first word
+EndTime is the end_time of the last word
+Length of StudySeq (to the nearest 0.05s)
+In StudySeq25, (The EndTime of "Progressive" is 158.8 but the EndTime of the StudySeq video is at 159.3 where no words are specified in the transcript)
+In StudySeq30, (The StartTime of "it" is at 0.02 but the StartTime of the video is at 0.0 where no words are specified in the transcript)
+Everything below the next line corresponds to the data.
+START:
+StudySeq1: TestSeq001.json/6.2-15.5/"but"-"that"/9.30
+StudySeq2: TestSeq001.json/30.0-40.8/"he"-"sell"/10.80
+StudySeq3: TestSeq001.json/49.7-57.3/"but"-"forbid"/7.60
+StudySeq4: TestSeq001.json/79.5-88.0/"I"-"you know"/8.50
+StudySeq5: TestSeq002.json/0.0-9.4/"or"-"kind of"/9.40
+StudySeq6: TestSeq002.json/22.8-32.9/"like"-"experience"/10.10
+StudySeq7: TestSeq002.json/41.6-51.6/"and"-"that"/10.00
+StudySeq8: TestSeq002.json/65.2-75.2/"so"-"you"/10.00
+StudySeq9: TestSeq003.json/1.900-11.7000/"I"-"very"/9.80
+StudySeq10: TestSeq003.json/15.500-25.300/"which"-"a"/9.80
+StudySeq11: TestSeq003.json/52.400-62.200/"but"-"kind of"/9.80
+StudySeq12: TestSeq003.json/84.200-96.100/"where"-"lady Friday"/11.90
+StudySeq13: TestSeq004.json/1.6-10.0/"he"-"hamster"/8.40
+StudySeq14: TestSeq004.json/29.9-41.7/"that"-"off"/11.80
+StudySeq15: TestSeq004.json/53.1-62.7/"I"-"here"/9.60
+StudySeq16: TestSeq004.json/92.8-105.5/"I"-"dreaming"/12.70
+StudySeq17: TestSeq005.json/0.0-9.7/"stick"-"anyway"/9.70
+StudySeq18: TestSeq005.json/26.0-38.5/"It"-"yourself"/12.50
+StudySeq19: TestSeq005.json/44.2-56.6/"and"-"step"/12.40
+StudySeq20: TestSeq005.json/60.6-72.0/"I"-"austere"/11.40
+StudySeq21: TestSeq006.json/0.2-11.3/"I"-"experience"/11.10
+StudySeq22: TestSeq006.json/29.5-37.4/"and"-"things."/7.90
+StudySeq23: TestSeq006.json/100.4-109.9/"eh"-"about"/9.50
+StudySeq24: TestSeq006.json/120.6-130.7/"the"-"just"/10.10
+StudySeq25: TestSeq006.json/148.3-159.3/"I"-"Progressive"/11.00
+StudySeq26: TestSeq007.json/0.0-10.3/"Henry Cavill"-"around"/10.30
+StudySeq27: TestSeq007.json/22.0-30.4/"but"-"good"/8.40
+StudySeq28: TestSeq007.json/35.0-44.4/"they"-"wrong"/9.40
+StudySeq29: TestSeq007.json/50.0-60.7/"because"-"yeah."/10.70
+StudySeq30: TestSeq008.json/0.0-11.1/"it"-"shift"/11.10
+StudySeq31: TestSeq008.json/92.4-100.9/"all"-"guess."/8.50
+StudySeq32: TestSeq008.json/105.5-116.4/"before"-"bad"/10.90
+StudySeq33: TestSeq008.json/120.7-130.2/"eh"-"in"/9.50
+StudySeq34: TestSeq009.json/0.0-10.100/"I"-"me?"/10.10
+StudySeq35: TestSeq009.json/30.200-40.600/"the"-"to"/10.40
+StudySeq36: TestSeq009.json/51.100-61.700/"but"-"phone"/10.60
+StudySeq37: TestSeq009.json/94.200-104.800/"it"-"sometimes."/10.60
+StudySeq38: TestSeq010.json/2.800-10.200/"okay"-"Portugal"/7.40
+StudySeq39: TestSeq010.json/10.600-20.100/"when"-"brother"/9.50
+StudySeq40: TestSeq010.json/22.800-30.0/"I"-"would."/7.20

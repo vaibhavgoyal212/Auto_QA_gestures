@@ -1,0 +1,15 @@
+Motion:
+Studyseq1-Studyseq40 is the original data (not augmented/synthesised)
+Studyseq41-Studyseq80 is the original data with left/right joints mirrored
+Studyseq81-Studyseq120 is the original data with small noise added to each joint position
+Studyseq121-Studyseq160 is the mirrored data (Studyseq41-80) with small noise added to each joint position
+
+Audio_Files:
+Studyseq1-Studyseq40 is the original data (not augmented/synthesised)
+Studyseq41-Studyseq80 is the original data with small white noise added
+
+Human-Likeness:
+Dataset = 8(Conds) * 160(Studyseqs) = 1280 Observations/Gesture Clips (up from 320)
+
+Appropriateness:
+Dataset = 9(Conds) * 160(Motion Studyseqs) * 2(Unique Audio Files for each Studyseq) = 2880 Observations/Gesture Clips (up from 360)

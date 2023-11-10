@@ -1,0 +1,51 @@
+Relevant Joints below refer to the joints which are used for the numerical evaluation in the genea paper mentioned in section 5.5. These were found
+using the coordinate files provided in the paper and code written in bvh_analysis.py to deduct what joints the coordinates in those files
+reffered to.
+
+['Hips_Xposition', 'Hips_Yposition', 'Hips_Zposition',
+     'Spine_Xposition', 'Spine_Yposition', 'Spine_Zposition', 'Spine1_Xposition',
+      'Spine1_Yposition', 'Spine1_Zposition', 'Spine2_Xposition', 'Spine2_Yposition',
+       'Spine2_Zposition', 'Spine3_Xposition', 'Spine3_Yposition', 'Spine3_Zposition',
+        'LeftArm_Xposition', 'LeftArm_Yposition', 'LeftArm_Zposition', 'LeftForeArm_Xposition',
+         'LeftForeArm_Yposition', 'LeftForeArm_Zposition', 'LeftHand_Xposition', 'LeftHand_Yposition',
+          'LeftHand_Zposition', 'RightArm_Xposition', 'RightArm_Yposition', 'RightArm_Zposition',
+           'RightForeArm_Xposition', 'RightForeArm_Yposition', 'RightForeArm_Zposition',
+            'RightHand_Xposition', 'RightHand_Yposition', 'RightHand_Zposition', 'Neck_Xposition',
+             'Neck_Yposition', 'Neck_Zposition', 'Neck1_Xposition', 'Neck1_Yposition', 'Neck1_Zposition',
+              'Head_Xposition', 'Head_Yposition', 'Head_Zposition', 'Head_Nub_Xposition',
+               'Head_Nub_Yposition', 'Head_Nub_Zposition']
+
+However, the coordinates for the Head and Head_Nub positions are always equal so we only need to include one 
+of them and it doesn't matter which so the final version of these relevant joints are as follows:
+
+['Hips_Xposition', 'Hips_Yposition', 'Hips_Zposition',
+     'Spine_Xposition', 'Spine_Yposition', 'Spine_Zposition', 'Spine1_Xposition',
+      'Spine1_Yposition', 'Spine1_Zposition', 'Spine2_Xposition', 'Spine2_Yposition',
+       'Spine2_Zposition', 'Spine3_Xposition', 'Spine3_Yposition', 'Spine3_Zposition',
+        'LeftArm_Xposition', 'LeftArm_Yposition', 'LeftArm_Zposition', 'LeftForeArm_Xposition',
+         'LeftForeArm_Yposition', 'LeftForeArm_Zposition', 'LeftHand_Xposition', 'LeftHand_Yposition',
+          'LeftHand_Zposition', 'RightArm_Xposition', 'RightArm_Yposition', 'RightArm_Zposition',
+           'RightForeArm_Xposition', 'RightForeArm_Yposition', 'RightForeArm_Zposition',
+            'RightHand_Xposition', 'RightHand_Yposition', 'RightHand_Zposition', 'Neck_Xposition',
+             'Neck_Yposition', 'Neck_Zposition', 'Neck1_Xposition', 'Neck1_Yposition', 'Neck1_Zposition',
+              'Head_Xposition', 'Head_Yposition', 'Head_Zposition']
+
+Joints which move to replicate human gestures are listed below. This information was given by Jinhong Lu, who submitted work in the
+GENEA competition. These Joints are as folllows: (these are the joints which are used to train models although the 'Spine' joint is excluded
+during training since it never moves)
+
+['Spine_Xposition', 'Spine_Yposition', 'Spine_Zposition', 
+'Spine1_Xposition','Spine1_Yposition', 'Spine1_Zposition', 
+'Spine2_Xposition', 'Spine2_Yposition','Spine2_Zposition', 
+'Spine3_Xposition', 'Spine3_Yposition', 'Spine3_Zposition',
+'LeftShoulder_Xposition','LeftShoulder_Yposition','LeftShoulder_Zposition',
+'LeftArm_Xposition', 'LeftArm_Yposition', 'LeftArm_Zposition', 
+'LeftForeArm_Xposition','LeftForeArm_Yposition', 'LeftForeArm_Zposition', 
+'LeftHand_Xposition', 'LeftHand_Yposition', 'LeftHand_Zposition', 
+'RightShoulder_Xposition','RightShoulder_Yposition','RightShoulder_Zposition', 
+'RightArm_Xposition', 'RightArm_Yposition', 'RightArm_Zposition',
+'RightForeArm_Xposition', 'RightForeArm_Yposition', 'RightForeArm_Zposition',
+'RightHand_Xposition', 'RightHand_Yposition', 'RightHand_Zposition', 
+'Neck_Xposition', 'Neck_Yposition', 'Neck_Zposition', 
+'Neck1_Xposition', 'Neck1_Yposition', 'Neck1_Zposition',
+'Head_Xposition', 'Head_Yposition', 'Head_Zposition']
