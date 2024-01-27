@@ -1,0 +1,42 @@
+% fragmaster file by fig2fm.m version 2020-10-01
+% 
+% Page and document setup:
+% fmopt: width=17cm
+% fmclass: article
+% fmclassopt: a4paper,british,12pt
+% 
+% LaTeX preamble:
+% head:
+% \usepackage[english]{babel}
+% \usepackage{amsmath}
+% \usepackage{amssymb}
+% \usepackage{fix-cm}
+% \usepackage{fixltx2e}
+% end head
+
+% psfrag commands:
+\psfrag{xlabel1}[Bc][Bc][1]{Human-likeness}
+\psfrag{ylabel1}[Bc][Bc][1]{Appropriateness}
+\psfrag{xt1}[Bc][Bc][1]{30}
+\psfrag{xt2}[Bc][Bc][1]{40}
+\psfrag{xt3}[Bc][Bc][1]{50}
+\psfrag{xt4}[Bc][Bc][1]{60}
+\psfrag{xt5}[Bc][Bc][1]{70}
+\psfrag{xt6}[Bc][Bc][1]{80}
+\psfrag{xt7}[Bc][Bc][1]{90}
+\psfrag{yt1}[Br][Br][1]{$30$}
+\psfrag{yt2}[Br][Br][1]{$40$}
+\psfrag{yt3}[Br][Br][1]{$50$}
+\psfrag{yt4}[Br][Br][1]{$60$}
+\psfrag{yt5}[Br][Br][1]{$70$}
+\psfrag{yt6}[Br][Br][1]{$80$}
+\psfrag{yt7}[Br][Br][1]{$90$}
+\psfrag{N1}[Bl][Bl][1]{N}
+\psfrag{M2}[Bl][Bl][1]{M}
+\psfrag{BA3}[Bl][Bl][1]{BA}
+\psfrag{BT4}[Bl][Bl][1]{BT}
+\psfrag{SA5}[Bl][Bl][1]{SA}
+\psfrag{SB6}[Bl][Bl][1]{SB}
+\psfrag{SC7}[Bl][Bl][1]{SC}
+\psfrag{SD8}[Bl][Bl][1]{SD}
+\psfrag{SE9}[Bl][Bl][1]{SE}

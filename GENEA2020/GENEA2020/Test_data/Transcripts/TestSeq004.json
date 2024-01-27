@@ -1,0 +1,2582 @@
+[
+    {
+        "alternatives": [
+            {
+                "confidence": 0.7892385721206665,
+                "words": [
+                    {
+                        "start_time": "0.0s",
+                        "end_time": "0.1s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "0.1s",
+                        "end_time": "0.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "0.4s",
+                        "end_time": "0.6s",
+                        "word": "she"
+                    },
+                    {
+                        "start_time": "0.6s",
+                        "end_time": "0.9s",
+                        "word": "knocked"
+                    },
+                    {
+                        "start_time": "0.9s",
+                        "end_time": "1.4s",
+                        "word": "over"
+                    },
+                    {
+                        "start_time": "1.5s",
+                        "end_time": "1.6s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "1.6s",
+                        "end_time": "1.8s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "1.8s",
+                        "end_time": "2.1s",
+                        "word": "knocked"
+                    },
+                    {
+                        "start_time": "2.1s",
+                        "end_time": "2.4s",
+                        "word": "over"
+                    },
+                    {
+                        "start_time": "2.4s",
+                        "end_time": "2.5s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "2.5s",
+                        "end_time": "3.0s",
+                        "word": "hamster's"
+                    },
+                    {
+                        "start_time": "3.0s",
+                        "end_time": "3.4s",
+                        "word": "cage"
+                    },
+                    {
+                        "start_time": "3.4s",
+                        "end_time": "3.6s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "3.6s",
+                        "end_time": "3.7s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "3.7s",
+                        "end_time": "3.8s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "3.8s",
+                        "end_time": "3.9s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "3.9s",
+                        "end_time": "4.1s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "4.1s",
+                        "end_time": "4.4s",
+                        "word": "messing"
+                    },
+                    {
+                        "start_time": "4.4s",
+                        "end_time": "4.9s",
+                        "word": "around."
+                    },
+                    {
+                        "start_time": "5.1s",
+                        "end_time": "5.2s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "5.2s",
+                        "end_time": "5.3s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "5.3s",
+                        "end_time": "5.3s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "5.3s",
+                        "end_time": "5.4s",
+                        "word": "had"
+                    },
+                    {
+                        "start_time": "5.4s",
+                        "end_time": "5.6s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "5.6s",
+                        "end_time": "5.8s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "5.8s",
+                        "end_time": "5.9s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "5.9s",
+                        "end_time": "6.3s",
+                        "word": "spilled"
+                    },
+                    {
+                        "start_time": "6.3s",
+                        "end_time": "6.6s",
+                        "word": "everywhere"
+                    },
+                    {
+                        "start_time": "6.6s",
+                        "end_time": "6.6s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "6.6s",
+                        "end_time": "6.7s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "6.7s",
+                        "end_time": "7.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "7.2s",
+                        "end_time": "7.8s",
+                        "word": "no"
+                    },
+                    {
+                        "start_time": "7.8s",
+                        "end_time": "7.9s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "7.9s",
+                        "end_time": "8.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "8.4s",
+                        "end_time": "8.7s",
+                        "word": "picked"
+                    },
+                    {
+                        "start_time": "8.7s",
+                        "end_time": "8.9s",
+                        "word": "up"
+                    },
+                    {
+                        "start_time": "8.9s",
+                        "end_time": "9.0s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "9.0s",
+                        "end_time": "9.3s",
+                        "word": "picked"
+                    },
+                    {
+                        "start_time": "9.3s",
+                        "end_time": "9.5s",
+                        "word": "up"
+                    },
+                    {
+                        "start_time": "9.5s",
+                        "end_time": "9.7s",
+                        "word": "about"
+                    },
+                    {
+                        "start_time": "9.7s",
+                        "end_time": "9.8s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "9.8s",
+                        "end_time": "10.0s",
+                        "word": "hamster"
+                    },
+                    {
+                        "start_time": "10.0s",
+                        "end_time": "10.2s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "10.2s",
+                        "end_time": "10.3s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "10.3s",
+                        "end_time": "10.4s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "10.4s",
+                        "end_time": "10.5s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "10.8s",
+                        "end_time": "11.3s",
+                        "word": "ah"
+                    },
+                    {
+                        "start_time": "11.4s",
+                        "end_time": "11.5s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "11.5s",
+                        "end_time": "11.6s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "11.6s",
+                        "end_time": "11.9s",
+                        "word": "you know"
+                    },
+                    {
+                        "start_time": "11.9s",
+                        "end_time": "12.5s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "12.5s",
+                        "end_time": "12.9s",
+                        "word": "dying"
+                    },
+                    {
+                        "start_time": "12.9s",
+                        "end_time": "12.9s",
+                        "word": "in"
+                    },
+                    {
+                        "start_time": "12.9s",
+                        "end_time": "13.1s",
+                        "word": "my"
+                    },
+                    {
+                        "start_time": "13.1s",
+                        "end_time": "13.5s",
+                        "word": "hands"
+                    },
+                    {
+                        "start_time": "13.5s",
+                        "end_time": "13.6s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "13.8s",
+                        "end_time": "13.8s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "13.8s",
+                        "end_time": "13.9s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "13.9s",
+                        "end_time": "14.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "14.8s",
+                        "end_time": "15.1s",
+                        "word": "why"
+                    },
+                    {
+                        "start_time": "15.1s",
+                        "end_time": "15.3s",
+                        "word": "would"
+                    },
+                    {
+                        "start_time": "15.3s",
+                        "end_time": "15.6s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "15.6s",
+                        "end_time": "15.9s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "15.9s",
+                        "end_time": "16.2s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "16.2s",
+                        "end_time": "16.3s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "16.3s",
+                        "end_time": "16.4s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "16.4s",
+                        "end_time": "16.7s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "17.0s",
+                        "end_time": "17.1s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "17.1s",
+                        "end_time": "17.3s",
+                        "word": "dude"
+                    },
+                    {
+                        "start_time": "17.3s",
+                        "end_time": "17.5s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "17.5s",
+                        "end_time": "17.6s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "17.6s",
+                        "end_time": "18.0s",
+                        "word": "fine"
+                    },
+                    {
+                        "start_time": "18.0s",
+                        "end_time": "18.0s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "18.0s",
+                        "end_time": "18.2s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "18.2s",
+                        "end_time": "18.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "18.4s",
+                        "end_time": "18.6s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "18.6s",
+                        "end_time": "18.7s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "18.7s",
+                        "end_time": "19.3s",
+                        "word": "clearly"
+                    },
+                    {
+                        "start_time": "19.3s",
+                        "end_time": "19.8s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "19.8s",
+                        "end_time": "20.6s",
+                        "word": "fucking"
+                    },
+                    {
+                        "start_time": "20.6s",
+                        "end_time": "21.4s",
+                        "word": "fine"
+                    },
+                    {
+                        "start_time": "22.0s",
+                        "end_time": "22.1s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "22.1s",
+                        "end_time": "22.2s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "22.2s",
+                        "end_time": "22.3s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "22.3s",
+                        "end_time": "22.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "22.8s",
+                        "end_time": "22.9s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "22.9s",
+                        "end_time": "23.0s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "23.0s",
+                        "end_time": "23.2s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "23.5s",
+                        "end_time": "24.0s",
+                        "word": "huge"
+                    },
+                    {
+                        "start_time": "24.0s",
+                        "end_time": "24.6s",
+                        "word": "argument"
+                    },
+                    {
+                        "start_time": "24.6s",
+                        "end_time": "24.8s",
+                        "word": "with"
+                    },
+                    {
+                        "start_time": "24.8s",
+                        "end_time": "25.0s",
+                        "word": "my"
+                    },
+                    {
+                        "start_time": "25.0s",
+                        "end_time": "25.8s",
+                        "word": "housemate"
+                    },
+                    {
+                        "start_time": "25.8s",
+                        "end_time": "26.0s",
+                        "word": "with"
+                    },
+                    {
+                        "start_time": "26.0s",
+                        "end_time": "26.2s",
+                        "word": "my"
+                    },
+                    {
+                        "start_time": "26.2s",
+                        "end_time": "26.7s",
+                        "word": "dying"
+                    },
+                    {
+                        "start_time": "26.7s",
+                        "end_time": "27.1s",
+                        "word": "hamster"
+                    },
+                    {
+                        "start_time": "27.1s",
+                        "end_time": "27.2s",
+                        "word": "in"
+                    },
+                    {
+                        "start_time": "27.2s",
+                        "end_time": "27.4s",
+                        "word": "my"
+                    },
+                    {
+                        "start_time": "27.4s",
+                        "end_time": "27.9s",
+                        "word": "hand."
+                    },
+                    {
+                        "start_time": "28.2s",
+                        "end_time": "28.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "28.4s",
+                        "end_time": "28.6s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "28.6s",
+                        "end_time": "28.6s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "28.6s",
+                        "end_time": "28.8s",
+                        "word": "thing"
+                    },
+                    {
+                        "start_time": "28.8s",
+                        "end_time": "29.0s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "29.0s",
+                        "end_time": "29.1s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "29.3s",
+                        "end_time": "29.4s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "29.4s",
+                        "end_time": "29.5s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "29.5s",
+                        "end_time": "29.6s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "29.6s",
+                        "end_time": "29.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "29.9s",
+                        "end_time": "30.2s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "30.2s",
+                        "end_time": "30.3s",
+                        "word": "at"
+                    },
+                    {
+                        "start_time": "30.3s",
+                        "end_time": "30.3s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "30.3s",
+                        "end_time": "30.6s",
+                        "word": "very"
+                    },
+                    {
+                        "start_time": "30.6s",
+                        "end_time": "30.9s",
+                        "word": "least"
+                    },
+                    {
+                        "start_time": "30.9s",
+                        "end_time": "31.0s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "31.0s",
+                        "end_time": "31.1s",
+                        "word": "would"
+                    },
+                    {
+                        "start_time": "31.1s",
+                        "end_time": "31.2s",
+                        "word": "say"
+                    },
+                    {
+                        "start_time": "31.2s",
+                        "end_time": "31.4s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "31.4s",
+                        "end_time": "31.6s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "31.6s",
+                        "end_time": "31.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "31.9s",
+                        "end_time": "32.1s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "32.1s",
+                        "end_time": "32.4s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "32.4s",
+                        "end_time": "32.6s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "32.6s",
+                        "end_time": "33.0s",
+                        "word": "very"
+                    },
+                    {
+                        "start_time": "33.0s",
+                        "end_time": "33.2s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "33.2s",
+                        "end_time": "33.3s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "33.3s",
+                        "end_time": "34.1s",
+                        "word": "manifestation"
+                    },
+                    {
+                        "start_time": "34.1s",
+                        "end_time": "34.2s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "34.2s",
+                        "end_time": "34.4s",
+                        "word": "me"
+                    },
+                    {
+                        "start_time": "34.4s",
+                        "end_time": "34.7s",
+                        "word": "being"
+                    },
+                    {
+                        "start_time": "34.7s",
+                        "end_time": "35.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "35.6s",
+                        "end_time": "35.8s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "35.8s",
+                        "end_time": "36.0s",
+                        "word": "being"
+                    },
+                    {
+                        "start_time": "36.0s",
+                        "end_time": "36.4s",
+                        "word": "stressed"
+                    },
+                    {
+                        "start_time": "36.4s",
+                        "end_time": "36.6s",
+                        "word": "about"
+                    },
+                    {
+                        "start_time": "36.6s",
+                        "end_time": "36.7s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "36.7s",
+                        "end_time": "37.2s",
+                        "word": "hamster"
+                    },
+                    {
+                        "start_time": "37.2s",
+                        "end_time": "37.5s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "37.5s",
+                        "end_time": "37.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "37.5s",
+                        "end_time": "37.7s",
+                        "word": "can"
+                    },
+                    {
+                        "start_time": "37.7s",
+                        "end_time": "37.9s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "37.9s",
+                        "end_time": "38.4s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "38.4s",
+                        "end_time": "38.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "38.5s",
+                        "end_time": "38.6s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "38.6s",
+                        "end_time": "38.8s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "38.8s",
+                        "end_time": "39.0s",
+                        "word": "used"
+                    },
+                    {
+                        "start_time": "39.0s",
+                        "end_time": "39.1s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "39.1s",
+                        "end_time": "39.6s",
+                        "word": "animals"
+                    },
+                    {
+                        "start_time": "39.6s",
+                        "end_time": "39.7s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "39.7s",
+                        "end_time": "39.9s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "39.9s",
+                        "end_time": "40.5s",
+                        "word": "clearly"
+                    },
+                    {
+                        "start_time": "40.5s",
+                        "end_time": "40.7s",
+                        "word": "tell"
+                    },
+                    {
+                        "start_time": "40.7s",
+                        "end_time": "40.8s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "40.8s",
+                        "end_time": "40.9s",
+                        "word": "when"
+                    },
+                    {
+                        "start_time": "40.9s",
+                        "end_time": "41.0s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "41.0s",
+                        "end_time": "41.1s",
+                        "word": "are"
+                    },
+                    {
+                        "start_time": "41.1s",
+                        "end_time": "41.4s",
+                        "word": "pissed"
+                    },
+                    {
+                        "start_time": "41.4s",
+                        "end_time": "41.7s",
+                        "word": "off"
+                    },
+                    {
+                        "start_time": "41.7s",
+                        "end_time": "42.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "42.4s",
+                        "end_time": "42.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "42.5s",
+                        "end_time": "42.6s",
+                        "word": "grew"
+                    },
+                    {
+                        "start_time": "42.6s",
+                        "end_time": "42.8s",
+                        "word": "up"
+                    },
+                    {
+                        "start_time": "42.8s",
+                        "end_time": "42.9s",
+                        "word": "with"
+                    },
+                    {
+                        "start_time": "42.9s",
+                        "end_time": "43.4s",
+                        "word": "cats"
+                    },
+                    {
+                        "start_time": "43.5s",
+                        "end_time": "43.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "43.7s",
+                        "end_time": "44.0s",
+                        "word": "cats"
+                    },
+                    {
+                        "start_time": "44.0s",
+                        "end_time": "44.1s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "44.1s",
+                        "end_time": "44.3s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "44.3s",
+                        "end_time": "44.4s",
+                        "word": "go"
+                    },
+                    {
+                        "start_time": "44.4s",
+                        "end_time": "44.8s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "45.2s",
+                        "end_time": "45.3s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "45.3s",
+                        "end_time": "45.4s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "45.4s",
+                        "end_time": "45.8s",
+                        "word": "done"
+                    },
+                    {
+                        "start_time": "45.8s",
+                        "end_time": "45.9s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "45.9s",
+                        "end_time": "46.1s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "46.1s",
+                        "end_time": "46.4s",
+                        "word": "go"
+                    },
+                    {
+                        "start_time": "46.4s",
+                        "end_time": "46.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "46.7s",
+                        "end_time": "46.8s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "46.8s",
+                        "end_time": "46.9s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "46.9s",
+                        "end_time": "47.4s",
+                        "word": "go"
+                    },
+                    {
+                        "start_time": "47.5s",
+                        "end_time": "47.7s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "47.7s",
+                        "end_time": "47.8s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "47.8s",
+                        "end_time": "47.9s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "47.9s",
+                        "end_time": "48.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "48.2s",
+                        "end_time": "48.5s",
+                        "word": "scratch"
+                    },
+                    {
+                        "start_time": "48.5s",
+                        "end_time": "48.8s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "48.8s",
+                        "end_time": "48.9s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "48.9s",
+                        "end_time": "49.2s",
+                        "word": "something"
+                    },
+                    {
+                        "start_time": "49.2s",
+                        "end_time": "49.6s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "50.4s",
+                        "end_time": "50.7s",
+                        "word": "whereas"
+                    },
+                    {
+                        "start_time": "50.7s",
+                        "end_time": "50.8s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "50.8s",
+                        "end_time": "50.9s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "50.9s",
+                        "end_time": "51.3s",
+                        "word": "hamster"
+                    },
+                    {
+                        "start_time": "51.3s",
+                        "end_time": "52.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "52.3s",
+                        "end_time": "52.4s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "52.4s",
+                        "end_time": "52.9s",
+                        "word": "can"
+                    },
+                    {
+                        "start_time": "52.9s",
+                        "end_time": "53.1s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "53.1s",
+                        "end_time": "53.2s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "53.2s",
+                        "end_time": "53.4s",
+                        "word": "can"
+                    },
+                    {
+                        "start_time": "53.4s",
+                        "end_time": "53.5s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "53.5s",
+                        "end_time": "53.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "53.7s",
+                        "end_time": "53.8s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "53.8s",
+                        "end_time": "53.9s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "53.9s",
+                        "end_time": "54.0s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "54.0s",
+                        "end_time": "54.3s",
+                        "word": "giving"
+                    },
+                    {
+                        "start_time": "54.3s",
+                        "end_time": "54.5s",
+                        "word": "me"
+                    },
+                    {
+                        "start_time": "54.5s",
+                        "end_time": "54.9s",
+                        "word": "anything"
+                    },
+                    {
+                        "start_time": "54.9s",
+                        "end_time": "55.0s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "55.0s",
+                        "end_time": "55.1s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "55.1s",
+                        "end_time": "55.2s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "55.2s",
+                        "end_time": "55.3s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "55.3s",
+                        "end_time": "55.6s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "55.7s",
+                        "end_time": "55.8s",
+                        "word": "are"
+                    },
+                    {
+                        "start_time": "55.8s",
+                        "end_time": "55.9s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "55.9s",
+                        "end_time": "56.2s",
+                        "word": "okay"
+                    },
+                    {
+                        "start_time": "56.2s",
+                        "end_time": "56.4s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "56.4s",
+                        "end_time": "56.4s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "56.4s",
+                        "end_time": "56.7s",
+                        "word": "need"
+                    },
+                    {
+                        "start_time": "56.7s",
+                        "end_time": "57.0s",
+                        "word": "food"
+                    },
+                    {
+                        "start_time": "57.0s",
+                        "end_time": "57.1s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "57.1s",
+                        "end_time": "57.3s",
+                        "word": "there"
+                    },
+                    {
+                        "start_time": "57.3s",
+                        "end_time": "57.6s",
+                        "word": "something"
+                    },
+                    {
+                        "start_time": "57.6s",
+                        "end_time": "57.7s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "57.7s",
+                        "end_time": "57.9s",
+                        "word": "need"
+                    },
+                    {
+                        "start_time": "57.9s",
+                        "end_time": "58.0s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "58.0s",
+                        "end_time": "58.1s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "58.1s",
+                        "end_time": "58.6s",
+                        "word": "sometimes"
+                    },
+                    {
+                        "start_time": "58.6s",
+                        "end_time": "58.7s",
+                        "word": "she"
+                    },
+                    {
+                        "start_time": "58.7s",
+                        "end_time": "58.8s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "58.8s",
+                        "end_time": "58.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "58.9s",
+                        "end_time": "59.1s",
+                        "word": "bite"
+                    },
+                    {
+                        "start_time": "59.1s",
+                        "end_time": "59.3s",
+                        "word": "on"
+                    },
+                    {
+                        "start_time": "59.3s",
+                        "end_time": "59.5s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "59.5s",
+                        "end_time": "59.8s",
+                        "word": "cage"
+                    }
+                ]
+            }
+        ],
+        "language_code": "en-us"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.8574420809745789,
+                "words": [
+                    {
+                        "start_time": "60.0s",
+                        "end_time": "60.1s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "60.1s",
+                        "end_time": "60.2s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "60.2s",
+                        "end_time": "60.3s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "60.3s",
+                        "end_time": "60.4s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "60.4s",
+                        "end_time": "60.9s",
+                        "word": "no"
+                    },
+                    {
+                        "start_time": "61.0s",
+                        "end_time": "61.3s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "61.3s",
+                        "end_time": "61.6s",
+                        "word": "means"
+                    },
+                    {
+                        "start_time": "61.6s",
+                        "end_time": "62.0s",
+                        "word": "something"
+                    },
+                    {
+                        "start_time": "62.0s",
+                        "end_time": "62.3s",
+                        "word": "bad"
+                    },
+                    {
+                        "start_time": "62.3s",
+                        "end_time": "62.7s",
+                        "word": "here"
+                    },
+                    {
+                        "start_time": "62.8s",
+                        "end_time": "63.0s",
+                        "word": "get"
+                    },
+                    {
+                        "start_time": "63.0s",
+                        "end_time": "63.1s",
+                        "word": "in"
+                    },
+                    {
+                        "start_time": "63.1s",
+                        "end_time": "63.2s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "63.2s",
+                        "end_time": "63.5s",
+                        "word": "ball"
+                    },
+                    {
+                        "start_time": "63.5s",
+                        "end_time": "63.7s",
+                        "word": "run"
+                    },
+                    {
+                        "start_time": "63.7s",
+                        "end_time": "64.2s",
+                        "word": "around"
+                    },
+                    {
+                        "start_time": "64.2s",
+                        "end_time": "64.3s",
+                        "word": "for"
+                    },
+                    {
+                        "start_time": "64.3s",
+                        "end_time": "64.5s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "64.5s",
+                        "end_time": "64.8s",
+                        "word": "five"
+                    },
+                    {
+                        "start_time": "64.8s",
+                        "end_time": "65.1s",
+                        "word": "hours"
+                    },
+                    {
+                        "start_time": "65.1s",
+                        "end_time": "65.2s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "65.2s",
+                        "end_time": "65.3s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "65.3s",
+                        "end_time": "65.4s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "65.4s",
+                        "end_time": "65.6s",
+                        "word": "care"
+                    },
+                    {
+                        "start_time": "65.6s",
+                        "end_time": "66.0s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "66.1s",
+                        "end_time": "66.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "66.3s",
+                        "end_time": "66.4s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "66.4s",
+                        "end_time": "66.5s",
+                        "word": "will"
+                    },
+                    {
+                        "start_time": "66.5s",
+                        "end_time": "66.6s",
+                        "word": "put"
+                    },
+                    {
+                        "start_time": "66.6s",
+                        "end_time": "66.7s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "66.7s",
+                        "end_time": "66.8s",
+                        "word": "in"
+                    },
+                    {
+                        "start_time": "66.8s",
+                        "end_time": "66.8s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "66.8s",
+                        "end_time": "67.1s",
+                        "word": "ball"
+                    },
+                    {
+                        "start_time": "67.1s",
+                        "end_time": "67.4s",
+                        "word": "five"
+                    },
+                    {
+                        "start_time": "67.4s",
+                        "end_time": "67.7s",
+                        "word": "times"
+                    },
+                    {
+                        "start_time": "67.7s",
+                        "end_time": "67.7s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "67.7s",
+                        "end_time": "68.0s",
+                        "word": "day"
+                    },
+                    {
+                        "start_time": "68.0s",
+                        "end_time": "68.5s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "68.8s",
+                        "end_time": "69.3s",
+                        "word": "stop"
+                    },
+                    {
+                        "start_time": "69.3s",
+                        "end_time": "69.6s",
+                        "word": "biting"
+                    },
+                    {
+                        "start_time": "69.6s",
+                        "end_time": "69.7s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "69.7s",
+                        "end_time": "70.2s",
+                        "word": "cage"
+                    },
+                    {
+                        "start_time": "70.4s",
+                        "end_time": "70.4s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "70.4s",
+                        "end_time": "70.9s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "71.2s",
+                        "end_time": "71.3s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "71.3s",
+                        "end_time": "71.4s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "71.4s",
+                        "end_time": "71.7s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "71.7s",
+                        "end_time": "72.0s",
+                        "word": "bad"
+                    },
+                    {
+                        "start_time": "72.0s",
+                        "end_time": "72.1s",
+                        "word": "with"
+                    },
+                    {
+                        "start_time": "72.1s",
+                        "end_time": "72.6s",
+                        "word": "animals"
+                    },
+                    {
+                        "start_time": "72.6s",
+                        "end_time": "72.8s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "72.8s",
+                        "end_time": "73.0s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "73.0s",
+                        "end_time": "73.1s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "73.1s",
+                        "end_time": "73.5s",
+                        "word": "give"
+                    },
+                    {
+                        "start_time": "73.5s",
+                        "end_time": "73.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "73.7s",
+                        "end_time": "74.3s",
+                        "word": "emotional"
+                    },
+                    {
+                        "start_time": "74.3s",
+                        "end_time": "74.8s",
+                        "word": "feedback"
+                    },
+                    {
+                        "start_time": "74.8s",
+                        "end_time": "75.1s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "75.1s",
+                        "end_time": "75.2s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "75.2s",
+                        "end_time": "75.3s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "75.3s",
+                        "end_time": "75.5s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "75.5s",
+                        "end_time": "75.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "75.7s",
+                        "end_time": "76.0s",
+                        "word": "Start"
+                    },
+                    {
+                        "start_time": "76.0s",
+                        "end_time": "76.3s",
+                        "word": "freaking"
+                    },
+                    {
+                        "start_time": "76.3s",
+                        "end_time": "76.5s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "76.5s",
+                        "end_time": "76.7s",
+                        "word": "what"
+                    },
+                    {
+                        "start_time": "76.7s",
+                        "end_time": "76.8s",
+                        "word": "if"
+                    },
+                    {
+                        "start_time": "76.8s",
+                        "end_time": "77.0s",
+                        "word": "we"
+                    },
+                    {
+                        "start_time": "77.0s",
+                        "end_time": "77.3s",
+                        "word": "need"
+                    },
+                    {
+                        "start_time": "77.3s",
+                        "end_time": "77.4s",
+                        "word": "what"
+                    },
+                    {
+                        "start_time": "77.4s",
+                        "end_time": "77.5s",
+                        "word": "if"
+                    },
+                    {
+                        "start_time": "77.5s",
+                        "end_time": "77.6s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "77.6s",
+                        "end_time": "77.9s",
+                        "word": "needs"
+                    },
+                    {
+                        "start_time": "77.9s",
+                        "end_time": "78.1s",
+                        "word": "more"
+                    },
+                    {
+                        "start_time": "78.1s",
+                        "end_time": "78.4s",
+                        "word": "things"
+                    },
+                    {
+                        "start_time": "78.4s",
+                        "end_time": "78.8s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "78.8s",
+                        "end_time": "78.9s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "78.9s",
+                        "end_time": "79.2s",
+                        "word": "got"
+                    },
+                    {
+                        "start_time": "79.2s",
+                        "end_time": "79.2s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "79.4s",
+                        "end_time": "79.7s",
+                        "word": "freaked"
+                    },
+                    {
+                        "start_time": "79.7s",
+                        "end_time": "79.9s",
+                        "word": "out"
+                    },
+                    {
+                        "start_time": "79.9s",
+                        "end_time": "80.1s",
+                        "word": "about"
+                    },
+                    {
+                        "start_time": "80.1s",
+                        "end_time": "80.1s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "80.1s",
+                        "end_time": "80.5s",
+                        "word": "potted"
+                    },
+                    {
+                        "start_time": "80.5s",
+                        "end_time": "80.8s",
+                        "word": "plant."
+                    },
+                    {
+                        "start_time": "80.8s",
+                        "end_time": "81.0s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "81.0s",
+                        "end_time": "81.1s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "81.1s",
+                        "end_time": "81.3s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "81.3s",
+                        "end_time": "81.3s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "81.3s",
+                        "end_time": "81.7s",
+                        "word": "taking"
+                    },
+                    {
+                        "start_time": "81.7s",
+                        "end_time": "82.0s",
+                        "word": "care"
+                    },
+                    {
+                        "start_time": "82.0s",
+                        "end_time": "82.1s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "82.1s",
+                        "end_time": "82.2s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "82.2s",
+                        "end_time": "82.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "82.3s",
+                        "end_time": "82.7s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "82.7s",
+                        "end_time": "82.8s",
+                        "word": "does"
+                    },
+                    {
+                        "start_time": "82.8s",
+                        "end_time": "82.9s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "82.9s",
+                        "end_time": "83.0s",
+                        "word": "need"
+                    },
+                    {
+                        "start_time": "83.0s",
+                        "end_time": "83.2s",
+                        "word": "more"
+                    },
+                    {
+                        "start_time": "83.2s",
+                        "end_time": "83.5s",
+                        "word": "water"
+                    },
+                    {
+                        "start_time": "83.5s",
+                        "end_time": "83.8s",
+                        "word": "less"
+                    },
+                    {
+                        "start_time": "83.8s",
+                        "end_time": "84.3s",
+                        "word": "water"
+                    },
+                    {
+                        "start_time": "84.4s",
+                        "end_time": "84.5s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "84.5s",
+                        "end_time": "84.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "84.5s",
+                        "end_time": "84.7s",
+                        "word": "need"
+                    },
+                    {
+                        "start_time": "84.7s",
+                        "end_time": "84.8s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "84.8s",
+                        "end_time": "85.1s",
+                        "word": "sing"
+                    },
+                    {
+                        "start_time": "85.1s",
+                        "end_time": "85.2s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "85.2s",
+                        "end_time": "85.4s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "85.4s",
+                        "end_time": "85.7s",
+                        "word": "somebody"
+                    },
+                    {
+                        "start_time": "85.7s",
+                        "end_time": "86.0s",
+                        "word": "said"
+                    },
+                    {
+                        "start_time": "86.0s",
+                        "end_time": "86.2s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "86.2s",
+                        "end_time": "86.3s",
+                        "word": "you"
+                    },
+                    {
+                        "start_time": "86.3s",
+                        "end_time": "86.5s",
+                        "word": "sing"
+                    },
+                    {
+                        "start_time": "86.5s",
+                        "end_time": "86.7s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "86.7s",
+                        "end_time": "86.8s",
+                        "word": "your"
+                    },
+                    {
+                        "start_time": "86.8s",
+                        "end_time": "87.0s",
+                        "word": "plant"
+                    },
+                    {
+                        "start_time": "87.0s",
+                        "end_time": "87.1s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "87.1s",
+                        "end_time": "87.2s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "87.2s",
+                        "end_time": "87.4s",
+                        "word": "makes"
+                    },
+                    {
+                        "start_time": "87.4s",
+                        "end_time": "87.5s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "87.5s",
+                        "end_time": "87.8s",
+                        "word": "better"
+                    },
+                    {
+                        "start_time": "88.6s",
+                        "end_time": "88.7s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "88.7s",
+                        "end_time": "88.8s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "88.8s",
+                        "end_time": "88.9s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "88.9s",
+                        "end_time": "89.1s",
+                        "word": "know"
+                    },
+                    {
+                        "start_time": "89.6s",
+                        "end_time": "89.7s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "89.7s",
+                        "end_time": "89.8s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "89.8s",
+                        "end_time": "89.9s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "89.9s",
+                        "end_time": "90.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "90.8s",
+                        "end_time": "92.0s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "92.0s",
+                        "end_time": "92.4s",
+                        "word": "God."
+                    },
+                    {
+                        "start_time": "92.8s",
+                        "end_time": "92.9s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "92.9s",
+                        "end_time": "93.0s",
+                        "word": "am"
+                    },
+                    {
+                        "start_time": "93.0s",
+                        "end_time": "93.3s",
+                        "word": "going"
+                    },
+                    {
+                        "start_time": "93.3s",
+                        "end_time": "93.5s",
+                        "word": "all"
+                    },
+                    {
+                        "start_time": "93.5s",
+                        "end_time": "93.7s",
+                        "word": "over"
+                    },
+                    {
+                        "start_time": "93.7s",
+                        "end_time": "93.8s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "94.3s",
+                        "end_time": "94.5s",
+                        "word": "talking"
+                    },
+                    {
+                        "start_time": "94.5s",
+                        "end_time": "94.7s",
+                        "word": "about"
+                    },
+                    {
+                        "start_time": "94.7s",
+                        "end_time": "94.8s",
+                        "word": "all"
+                    },
+                    {
+                        "start_time": "94.8s",
+                        "end_time": "95.0s",
+                        "word": "sorts"
+                    },
+                    {
+                        "start_time": "95.0s",
+                        "end_time": "95.2s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "95.2s",
+                        "end_time": "95.6s",
+                        "word": "crazy"
+                    },
+                    {
+                        "start_time": "95.6s",
+                        "end_time": "95.9s",
+                        "word": "crap"
+                    },
+                    {
+                        "start_time": "96.3s",
+                        "end_time": "96.6s",
+                        "word": "but"
+                    },
+                    {
+                        "start_time": "97.0s",
+                        "end_time": "97.1s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "97.1s",
+                        "end_time": "97.2s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "97.2s",
+                        "end_time": "97.3s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "97.3s",
+                        "end_time": "97.5s",
+                        "word": "know"
+                    },
+                    {
+                        "start_time": "97.5s",
+                        "end_time": "97.6s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "97.6s",
+                        "end_time": "97.7s",
+                        "word": "are"
+                    },
+                    {
+                        "start_time": "97.7s",
+                        "end_time": "97.8s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "97.8s",
+                        "end_time": "98.0s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "98.0s",
+                        "end_time": "98.3s",
+                        "word": "dream"
+                    },
+                    {
+                        "start_time": "98.3s",
+                        "end_time": "98.6s",
+                        "word": "things"
+                    },
+                    {
+                        "start_time": "98.6s",
+                        "end_time": "98.7s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "98.7s",
+                        "end_time": "99.1s",
+                        "word": "kind of"
+                    },
+                    {
+                        "start_time": "99.3s",
+                        "end_time": "99.4s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "99.4s",
+                        "end_time": "99.5s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "99.5s",
+                        "end_time": "99.8s",
+                        "word": "weird"
+                    },
+                    {
+                        "start_time": "99.8s",
+                        "end_time": "100.1s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "100.1s",
+                        "end_time": "100.5s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "101.1s",
+                        "end_time": "101.3s",
+                        "word": "there"
+                    },
+                    {
+                        "start_time": "101.3s",
+                        "end_time": "101.4s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "101.4s",
+                        "end_time": "101.4s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "101.4s",
+                        "end_time": "101.7s",
+                        "word": "period"
+                    },
+                    {
+                        "start_time": "101.7s",
+                        "end_time": "101.8s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "101.8s",
+                        "end_time": "102.0s",
+                        "word": "time"
+                    },
+                    {
+                        "start_time": "102.0s",
+                        "end_time": "102.1s",
+                        "word": "when"
+                    },
+                    {
+                        "start_time": "102.1s",
+                        "end_time": "102.2s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "102.2s",
+                        "end_time": "102.3s",
+                        "word": "had"
+                    },
+                    {
+                        "start_time": "102.3s",
+                        "end_time": "102.6s",
+                        "word": "started"
+                    },
+                    {
+                        "start_time": "102.6s",
+                        "end_time": "102.7s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "102.7s",
+                        "end_time": "103.1s",
+                        "word": "kind of"
+                    },
+                    {
+                        "start_time": "103.4s",
+                        "end_time": "103.7s",
+                        "word": "go"
+                    },
+                    {
+                        "start_time": "103.7s",
+                        "end_time": "103.8s",
+                        "word": "on"
+                    },
+                    {
+                        "start_time": "103.8s",
+                        "end_time": "103.9s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "103.9s",
+                        "end_time": "104.2s",
+                        "word": "path"
+                    },
+                    {
+                        "start_time": "104.2s",
+                        "end_time": "104.5s",
+                        "word": "towards"
+                    },
+                    {
+                        "start_time": "104.5s",
+                        "end_time": "104.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "104.7s",
+                        "end_time": "105.0s",
+                        "word": "lucid"
+                    },
+                    {
+                        "start_time": "105.0s",
+                        "end_time": "105.5s",
+                        "word": "dreaming."
+                    },
+                    {
+                        "start_time": "105.5s",
+                        "end_time": "105.6s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "105.6s",
+                        "end_time": "105.6s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "105.6s",
+                        "end_time": "105.8s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "105.8s",
+                        "end_time": "106.0s",
+                        "word": "starting"
+                    },
+                    {
+                        "start_time": "106.0s",
+                        "end_time": "106.1s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "106.1s",
+                        "end_time": "106.2s",
+                        "word": "have"
+                    },
+                    {
+                        "start_time": "106.2s",
+                        "end_time": "106.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "106.4s",
+                        "end_time": "106.6s",
+                        "word": "really"
+                    },
+                    {
+                        "start_time": "106.6s",
+                        "end_time": "106.8s",
+                        "word": "vivid"
+                    },
+                    {
+                        "start_time": "106.8s",
+                        "end_time": "107.2s",
+                        "word": "dreams"
+                    },
+                    {
+                        "start_time": "107.2s",
+                        "end_time": "107.3s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "107.3s",
+                        "end_time": "107.4s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "107.4s",
+                        "end_time": "107.5s",
+                        "word": "were"
+                    },
+                    {
+                        "start_time": "107.5s",
+                        "end_time": "108.0s",
+                        "word": "nice"
+                    },
+                    {
+                        "start_time": "108.0s",
+                        "end_time": "108.2s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "108.4s",
+                        "end_time": "108.6s",
+                        "word": "kind of"
+                    },
+                    {
+                        "start_time": "108.6s",
+                        "end_time": "108.8s",
+                        "word": "really"
+                    },
+                    {
+                        "start_time": "108.8s",
+                        "end_time": "109.3s",
+                        "word": "cool"
+                    },
+                    {
+                        "start_time": "109.3s",
+                        "end_time": "109.4s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "109.4s",
+                        "end_time": "109.5s",
+                        "word": "had"
+                    },
+                    {
+                        "start_time": "109.5s",
+                        "end_time": "109.7s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "109.7s",
+                        "end_time": "109.8s",
+                        "word": "one"
+                    },
+                    {
+                        "start_time": "109.8s",
+                        "end_time": "110.0s",
+                        "word": "dream"
+                    },
+                    {
+                        "start_time": "110.0s",
+                        "end_time": "110.2s",
+                        "word": "where"
+                    },
+                    {
+                        "start_time": "110.2s",
+                        "end_time": "110.2s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "110.2s",
+                        "end_time": "110.3s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "110.3s",
+                        "end_time": "110.6s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "111.1s",
+                        "end_time": "111.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "111.3s",
+                        "end_time": "111.4s",
+                        "word": "in"
+                    },
+                    {
+                        "start_time": "111.4s",
+                        "end_time": "111.5s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "111.5s",
+                        "end_time": "111.7s",
+                        "word": "middle"
+                    },
+                    {
+                        "start_time": "111.7s",
+                        "end_time": "111.8s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "111.8s",
+                        "end_time": "112.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "112.0s",
+                        "end_time": "112.7s",
+                        "word": "Stonehenge"
+                    },
+                    {
+                        "start_time": "112.7s",
+                        "end_time": "112.8s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "112.8s",
+                        "end_time": "113.4s",
+                        "word": "something."
+                    },
+                    {
+                        "start_time": "113.4s",
+                        "end_time": "113.5s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "113.5s",
+                        "end_time": "113.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "113.7s",
+                        "end_time": "113.8s",
+                        "word": "there"
+                    },
+                    {
+                        "start_time": "113.8s",
+                        "end_time": "113.9s",
+                        "word": "were"
+                    },
+                    {
+                        "start_time": "113.9s",
+                        "end_time": "114.0s",
+                        "word": "all"
+                    },
+                    {
+                        "start_time": "114.0s",
+                        "end_time": "114.2s",
+                        "word": "these"
+                    },
+                    {
+                        "start_time": "114.2s",
+                        "end_time": "115.1s",
+                        "word": "goblins"
+                    },
+                    {
+                        "start_time": "115.1s",
+                        "end_time": "115.5s",
+                        "word": "coming"
+                    },
+                    {
+                        "start_time": "115.5s",
+                        "end_time": "115.7s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "115.7s",
+                        "end_time": "115.7s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "115.7s",
+                        "end_time": "115.9s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "115.9s",
+                        "end_time": "116.4s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "116.4s",
+                        "end_time": "116.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "116.5s",
+                        "end_time": "116.6s",
+                        "word": "had"
+                    },
+                    {
+                        "start_time": "116.6s",
+                        "end_time": "116.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "116.7s",
+                        "end_time": "116.8s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "116.8s",
+                        "end_time": "117.5s",
+                        "word": "sword"
+                    },
+                    {
+                        "start_time": "117.5s",
+                        "end_time": "117.6s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "117.6s",
+                        "end_time": "117.6s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "117.6s",
+                        "end_time": "117.8s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "117.8s",
+                        "end_time": "118.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "118.0s",
+                        "end_time": "118.4s",
+                        "word": "using"
+                    },
+                    {
+                        "start_time": "118.4s",
+                        "end_time": "118.9s",
+                        "word": "fire"
+                    },
+                    {
+                        "start_time": "118.9s",
+                        "end_time": "119.4s",
+                        "word": "magic"
+                    },
+                    {
+                        "start_time": "119.4s",
+                        "end_time": "119.6s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "119.6s",
+                        "end_time": "119.8s",
+                        "word": "something"
+                    }
+                ]
+            }
+        ],
+        "language_code": "en-us"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.7687702775001526,
+                "words": [
+                    {
+                        "start_time": "119.8s",
+                        "end_time": "119.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "119.9s",
+                        "end_time": "120.0s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "120.0s",
+                        "end_time": "120.1s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "120.1s",
+                        "end_time": "120.2s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "120.2s",
+                        "end_time": "120.3s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "120.3s",
+                        "end_time": "120.5s",
+                        "word": "like."
+                    },
+                    {
+                        "start_time": "120.5s",
+                        "end_time": "121.2s",
+                        "word": "proper"
+                    },
+                    {
+                        "start_time": "121.3s",
+                        "end_time": "121.6s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "121.6s",
+                        "end_time": "122.2s",
+                        "word": "fantasy"
+                    },
+                    {
+                        "start_time": "122.2s",
+                        "end_time": "122.6s",
+                        "word": "nerd"
+                    },
+                    {
+                        "start_time": "122.6s",
+                        "end_time": "122.7s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "122.7s",
+                        "end_time": "123.6s",
+                        "word": "Dungeons and dragons"
+                    },
+                    {
+                        "start_time": "123.6s",
+                        "end_time": "124.0s",
+                        "word": "stuff"
+                    },
+                    {
+                        "start_time": "124.3s",
+                        "end_time": "124.8s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "125.4s",
+                        "end_time": "125.5s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "125.5s",
+                        "end_time": "125.7s",
+                        "word": "wish"
+                    },
+                    {
+                        "start_time": "125.7s",
+                        "end_time": "125.8s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "125.8s",
+                        "end_time": "126.0s",
+                        "word": "could"
+                    },
+                    {
+                        "start_time": "126.0s",
+                        "end_time": "126.3s",
+                        "word": "dream"
+                    },
+                    {
+                        "start_time": "126.3s",
+                        "end_time": "126.5s",
+                        "word": "about"
+                    },
+                    {
+                        "start_time": "126.5s",
+                        "end_time": "126.7s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "126.7s",
+                        "end_time": "126.9s",
+                        "word": "again"
+                    },
+                    {
+                        "start_time": "126.9s",
+                        "end_time": "127.2s",
+                        "word": "instead"
+                    },
+                    {
+                        "start_time": "127.2s",
+                        "end_time": "127.2s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "127.2s",
+                        "end_time": "127.7s",
+                        "word": "insects"
+                    },
+                    {
+                        "start_time": "127.7s",
+                        "end_time": "128.0s",
+                        "word": "crawling"
+                    },
+                    {
+                        "start_time": "128.0s",
+                        "end_time": "128.1s",
+                        "word": "into"
+                    },
+                    {
+                        "start_time": "128.1s",
+                        "end_time": "128.2s",
+                        "word": "my"
+                    },
+                    {
+                        "start_time": "128.2s",
+                        "end_time": "128.7s",
+                        "word": "skin"
+                    },
+                    {
+                        "start_time": "129.3s",
+                        "end_time": "129.6s",
+                        "word": "eh."
+                    }
+                ]
+            }
+        ],
+        "language_code": "en-us"
+    }
+]

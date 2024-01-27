@@ -1,0 +1,982 @@
+[
+    {
+        "alternatives": [
+            {
+                "confidence": 0.7575746774673462,
+                "words": [
+                    {
+                        "start_time": "0.0s",
+                        "end_time": "1.2s",
+                        "word": "Henry Cavill"
+                    },
+                    {
+                        "start_time": "1.2s",
+                        "end_time": "1.4s",
+                        "word": "who"
+                    },
+                    {
+                        "start_time": "1.4s",
+                        "end_time": "1.5s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "1.5s",
+                        "end_time": "1.6s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "1.6s",
+                        "end_time": "1.9s",
+                        "word": "actor"
+                    },
+                    {
+                        "start_time": "1.9s",
+                        "end_time": "2.2s",
+                        "word": "for"
+                    },
+                    {
+                        "start_time": "2.2s",
+                        "end_time": "2.9s",
+                        "word": "Superman"
+                    },
+                    {
+                        "start_time": "3.0s",
+                        "end_time": "3.8s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "4.4s",
+                        "end_time": "4.8s",
+                        "word": "apparently"
+                    },
+                    {
+                        "start_time": "4.8s",
+                        "end_time": "4.9s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "4.9s",
+                        "end_time": "5.0s",
+                        "word": "was    "
+                    },
+                    {
+                        "start_time": "5.0s",
+                        "end_time": "5.2s",
+                        "word": "doing"
+                    },
+                    {
+                        "start_time": "5.2s",
+                        "end_time": "5.5s",
+                        "word": "another"
+                    },
+                    {
+                        "start_time": "5.5s",
+                        "end_time": "5.8s",
+                        "word": "film"
+                    },
+                    {
+                        "start_time": "5.8s",
+                        "end_time": "6.0s",
+                        "word": "with"
+                    },
+                    {
+                        "start_time": "6.0s",
+                        "end_time": "7.1s",
+                        "word": "Paramount Pictures"
+                    },
+                    {
+                        "start_time": "7.2s",
+                        "end_time": "7.3s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "7.3s",
+                        "end_time": "7.4s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "7.4s",
+                        "end_time": "7.5s",
+                        "word": "thing"
+                    },
+                    {
+                        "start_time": "7.5s",
+                        "end_time": "7.6s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "7.6s",
+                        "end_time": "8.1s",
+                        "word": "apparently"
+                    },
+                    {
+                        "start_time": "8.1s",
+                        "end_time": "8.6s",
+                        "word": "Paramount"
+                    },
+                    {
+                        "start_time": "8.6s",
+                        "end_time": "8.8s",
+                        "word": "would"
+                    },
+                    {
+                        "start_time": "8.8s",
+                        "end_time": "8.9s",
+                        "word": "be"
+                    },
+                    {
+                        "start_time": "8.9s",
+                        "end_time": "9.0s",
+                        "word": "or"
+                    },
+                    {
+                        "start_time": "9.0s",
+                        "end_time": "9.2s",
+                        "word": "maybe"
+                    },
+                    {
+                        "start_time": "9.2s",
+                        "end_time": "9.3s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "9.3s",
+                        "end_time": "9.5s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "9.5s",
+                        "end_time": "9.6s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "9.6s",
+                        "end_time": "9.7s",
+                        "word": "other"
+                    },
+                    {
+                        "start_time": "9.7s",
+                        "end_time": "9.8s",
+                        "word": "way"
+                    },
+                    {
+                        "start_time": "9.8s",
+                        "end_time": "10.3s",
+                        "word": "around"
+                    },
+                    {
+                        "start_time": "10.8s",
+                        "end_time": "10.8s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "10.8s",
+                        "end_time": "10.9s",
+                        "word": "do"
+                    },
+                    {
+                        "start_time": "10.9s",
+                        "end_time": "11.0s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "11.0s",
+                        "end_time": "11.1s",
+                        "word": "know"
+                    },
+                    {
+                        "start_time": "11.1s",
+                        "end_time": "11.2s",
+                        "word": "well"
+                    },
+                    {
+                        "start_time": "11.2s",
+                        "end_time": "11.6s",
+                        "word": "anyway."
+                    },
+                    {
+                        "start_time": "11.6s",
+                        "end_time": "12.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "12.1s",
+                        "end_time": "12.2s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "12.2s",
+                        "end_time": "12.3s",
+                        "word": "were"
+                    },
+                    {
+                        "start_time": "12.3s",
+                        "end_time": "12.5s",
+                        "word": "being"
+                    },
+                    {
+                        "start_time": "12.5s",
+                        "end_time": "12.8s",
+                        "word": "really"
+                    },
+                    {
+                        "start_time": "12.8s",
+                        "end_time": "13.3s",
+                        "word": "Petty"
+                    },
+                    {
+                        "start_time": "13.3s",
+                        "end_time": "13.4s",
+                        "word": "and"
+                    },
+                    {
+                        "start_time": "13.4s",
+                        "end_time": "13.4s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "13.4s",
+                        "end_time": "13.6s",
+                        "word": "were"
+                    },
+                    {
+                        "start_time": "13.6s",
+                        "end_time": "13.9s",
+                        "word": "saying"
+                    },
+                    {
+                        "start_time": "13.9s",
+                        "end_time": "14.0s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "14.0s",
+                        "end_time": "14.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "14.3s",
+                        "end_time": "14.6s",
+                        "word": "no"
+                    },
+                    {
+                        "start_time": "14.6s",
+                        "end_time": "14.9s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "14.9s",
+                        "end_time": "15.1s",
+                        "word": "has"
+                    },
+                    {
+                        "start_time": "15.1s",
+                        "end_time": "15.2s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "15.2s",
+                        "end_time": "16.0s",
+                        "word": "keep"
+                    },
+                    {
+                        "start_time": "16.0s",
+                        "end_time": "16.4s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "16.4s",
+                        "end_time": "16.5s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "16.5s",
+                        "end_time": "16.6s",
+                        "word": "has"
+                    },
+                    {
+                        "start_time": "16.6s",
+                        "end_time": "16.7s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "16.7s",
+                        "end_time": "17.0s",
+                        "word": "keep"
+                    },
+                    {
+                        "start_time": "17.0s",
+                        "end_time": "17.1s",
+                        "word": "his"
+                    },
+                    {
+                        "start_time": "17.1s",
+                        "end_time": "17.6s",
+                        "word": "mustache"
+                    },
+                    {
+                        "start_time": "17.6s",
+                        "end_time": "17.7s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "17.7s",
+                        "end_time": "17.8s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "17.8s",
+                        "end_time": "17.9s",
+                        "word": "an"
+                    },
+                    {
+                        "start_time": "17.9s",
+                        "end_time": "18.5s",
+                        "word": "essential"
+                    },
+                    {
+                        "start_time": "18.5s",
+                        "end_time": "18.7s",
+                        "word": "part"
+                    },
+                    {
+                        "start_time": "18.7s",
+                        "end_time": "18.7s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "18.7s",
+                        "end_time": "18.8s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "18.8s",
+                        "end_time": "19.5s",
+                        "word": "character"
+                    },
+                    {
+                        "start_time": "19.7s",
+                        "end_time": "19.8s",
+                        "word": "he"
+                    },
+                    {
+                        "start_time": "19.8s",
+                        "end_time": "20.0s",
+                        "word": "can"
+                    },
+                    {
+                        "start_time": "20.0s",
+                        "end_time": "20.2s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "20.2s",
+                        "end_time": "20.4s",
+                        "word": "get"
+                    },
+                    {
+                        "start_time": "20.4s",
+                        "end_time": "20.6s",
+                        "word": "rid"
+                    },
+                    {
+                        "start_time": "20.6s",
+                        "end_time": "20.6s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "20.6s",
+                        "end_time": "20.7s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "20.7s",
+                        "end_time": "21.4s",
+                        "word": "mustache."
+                    },
+                    {
+                        "start_time": "22.0s",
+                        "end_time": "22.1s",
+                        "word": "but"
+                    },
+                    {
+                        "start_time": "22.1s",
+                        "end_time": "22.3s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "22.3s",
+                        "end_time": "22.5s",
+                        "word": "still"
+                    },
+                    {
+                        "start_time": "22.5s",
+                        "end_time": "22.8s",
+                        "word": "needed"
+                    },
+                    {
+                        "start_time": "22.8s",
+                        "end_time": "23.0s",
+                        "word": "him"
+                    },
+                    {
+                        "start_time": "23.0s",
+                        "end_time": "23.1s",
+                        "word": "for"
+                    },
+                    {
+                        "start_time": "23.1s",
+                        "end_time": "23.7s",
+                        "word": "Superman"
+                    },
+                    {
+                        "start_time": "23.7s",
+                        "end_time": "24.2s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "24.2s",
+                        "end_time": "24.6s",
+                        "word": "you know"
+                    },
+                    {
+                        "start_time": "24.6s",
+                        "end_time": "24.7s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "24.7s",
+                        "end_time": "25.0s",
+                        "word": "guess"
+                    },
+                    {
+                        "start_time": "25.0s",
+                        "end_time": "25.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "25.2s",
+                        "end_time": "25.3s",
+                        "word": "we"
+                    },
+                    {
+                        "start_time": "25.3s",
+                        "end_time": "25.5s",
+                        "word": "can"
+                    },
+                    {
+                        "start_time": "25.5s",
+                        "end_time": "25.6s",
+                        "word": "not"
+                    },
+                    {
+                        "start_time": "25.6s",
+                        "end_time": "25.7s",
+                        "word": "have"
+                    },
+                    {
+                        "start_time": "25.7s",
+                        "end_time": "25.8s",
+                        "word": "a"
+                    },
+                    {
+                        "start_time": "25.8s",
+                        "end_time": "26.1s",
+                        "word": "single"
+                    },
+                    {
+                        "start_time": "26.1s",
+                        "end_time": "26.3s",
+                        "word": "film"
+                    },
+                    {
+                        "start_time": "26.3s",
+                        "end_time": "26.6s",
+                        "word": "without"
+                    },
+                    {
+                        "start_time": "26.6s",
+                        "end_time": "27.2s",
+                        "word": "Superman"
+                    },
+                    {
+                        "start_time": "27.7s",
+                        "end_time": "28.3s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "28.5s",
+                        "end_time": "28.8s",
+                        "word": "unless"
+                    },
+                    {
+                        "start_time": "28.8s",
+                        "end_time": "28.9s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "28.9s",
+                        "end_time": "29.0s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "29.0s",
+                        "end_time": "29.4s",
+                        "word": "Wonder Woman"
+                    },
+                    {
+                        "start_time": "29.4s",
+                        "end_time": "29.9s",
+                        "word": "Wonder Woman"
+                    },
+                    {
+                        "start_time": "29.9s",
+                        "end_time": "30.0s",
+                        "word": "was"
+                    },
+                    {
+                        "start_time": "30.0s",
+                        "end_time": "30.2s",
+                        "word": "very"
+                    },
+                    {
+                        "start_time": "30.2s",
+                        "end_time": "30.4s",
+                        "word": "good"
+                    },
+                    {
+                        "start_time": "30.4s",
+                        "end_time": "30.8s",
+                        "word": "but"
+                    },
+                    {
+                        "start_time": "32.3s",
+                        "end_time": "32.5s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "32.5s",
+                        "end_time": "32.7s",
+                        "word": "but"
+                    },
+                    {
+                        "start_time": "32.7s",
+                        "end_time": "33.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "33.3s",
+                        "end_time": "33.9s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "33.9s",
+                        "end_time": "34.0s",
+                        "word": "eh."
+                    },
+                    {
+                        "start_time": "35.0s",
+                        "end_time": "35.2s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "35.2s",
+                        "end_time": "35.5s",
+                        "word": "actually"
+                    },
+                    {
+                        "start_time": "35.5s",
+                        "end_time": "35.7s",
+                        "word": "had"
+                    },
+                    {
+                        "start_time": "35.7s",
+                        "end_time": "35.7s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "35.7s",
+                        "end_time": "36.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "36.0s",
+                        "end_time": "36.9s",
+                        "word": "CGI"
+                    },
+                    {
+                        "start_time": "36.9s",
+                        "end_time": "37.4s",
+                        "word": "out"
+                    },
+                    {
+                        "start_time": "37.4s",
+                        "end_time": "37.6s",
+                        "word": "his"
+                    },
+                    {
+                        "start_time": "37.6s",
+                        "end_time": "38.1s",
+                        "word": "moustache"
+                    },
+                    {
+                        "start_time": "38.1s",
+                        "end_time": "38.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "38.3s",
+                        "end_time": "38.4s",
+                        "word": "they"
+                    },
+                    {
+                        "start_time": "38.4s",
+                        "end_time": "38.8s",
+                        "word": "tried"
+                    },
+                    {
+                        "start_time": "38.8s",
+                        "end_time": "38.9s",
+                        "word": "to"
+                    },
+                    {
+                        "start_time": "38.9s",
+                        "end_time": "39.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "39.2s",
+                        "end_time": "39.4s",
+                        "word": "make"
+                    },
+                    {
+                        "start_time": "39.4s",
+                        "end_time": "39.5s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "39.5s",
+                        "end_time": "39.8s",
+                        "word": "look"
+                    },
+                    {
+                        "start_time": "40.0s",
+                        "end_time": "40.1s",
+                        "word": "but"
+                    },
+                    {
+                        "start_time": "40.1s",
+                        "end_time": "40.3s",
+                        "word": "then"
+                    },
+                    {
+                        "start_time": "40.3s",
+                        "end_time": "40.5s",
+                        "word": "there"
+                    },
+                    {
+                        "start_time": "40.5s",
+                        "end_time": "40.6s",
+                        "word": "are"
+                    },
+                    {
+                        "start_time": "40.6s",
+                        "end_time": "40.9s",
+                        "word": "some"
+                    },
+                    {
+                        "start_time": "40.9s",
+                        "end_time": "41.3s",
+                        "word": "shots"
+                    },
+                    {
+                        "start_time": "41.3s",
+                        "end_time": "41.5s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "41.5s",
+                        "end_time": "41.8s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "41.8s",
+                        "end_time": "42.2s",
+                        "word": "looks"
+                    },
+                    {
+                        "start_time": "42.2s",
+                        "end_time": "43.0s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "43.1s",
+                        "end_time": "43.5s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "43.9s",
+                        "end_time": "44.4s",
+                        "word": "wrong"
+                    },
+                    {
+                        "start_time": "44.4s",
+                        "end_time": "44.7s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "44.7s",
+                        "end_time": "44.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "44.9s",
+                        "end_time": "45.0s",
+                        "word": "there"
+                    },
+                    {
+                        "start_time": "45.0s",
+                        "end_time": "45.1s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "45.1s",
+                        "end_time": "45.2s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "45.2s",
+                        "end_time": "45.6s",
+                        "word": "once"
+                    },
+                    {
+                        "start_time": "45.6s",
+                        "end_time": "45.8s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "45.8s",
+                        "end_time": "45.9s",
+                        "word": "are"
+                    },
+                    {
+                        "start_time": "45.9s",
+                        "end_time": "46.5s",
+                        "word": "fantastic"
+                    },
+                    {
+                        "start_time": "46.5s",
+                        "end_time": "47.1s",
+                        "word": "screenshot"
+                    },
+                    {
+                        "start_time": "47.1s",
+                        "end_time": "47.3s",
+                        "word": "that"
+                    },
+                    {
+                        "start_time": "47.3s",
+                        "end_time": "47.4s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "47.4s",
+                        "end_time": "47.5s",
+                        "word": "him"
+                    },
+                    {
+                        "start_time": "47.5s",
+                        "end_time": "47.6s",
+                        "word": "going."
+                    }
+                ]
+            }
+        ],
+        "language_code": "en-us"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.8573796153068542,
+                "words": [
+                    {
+                        "start_time": "48.8s",
+                        "end_time": "48.9s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "48.9s",
+                        "end_time": "49.3s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "49.5s",
+                        "end_time": "49.7s",
+                        "word": "I"
+                    },
+                    {
+                        "start_time": "49.7s",
+                        "end_time": "49.8s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "49.8s",
+                        "end_time": "50.0s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "50.0s",
+                        "end_time": "50.2s",
+                        "word": "because"
+                    },
+                    {
+                        "start_time": "50.2s",
+                        "end_time": "50.3s",
+                        "word": "of"
+                    },
+                    {
+                        "start_time": "50.3s",
+                        "end_time": "50.4s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "50.4s",
+                        "end_time": "50.6s",
+                        "word": "no"
+                    },
+                    {
+                        "start_time": "50.6s",
+                        "end_time": "51.0s",
+                        "word": "mustache"
+                    },
+                    {
+                        "start_time": "51.0s",
+                        "end_time": "51.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "51.3s",
+                        "end_time": "51.6s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "51.6s",
+                        "end_time": "51.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "51.9s",
+                        "end_time": "52.1s",
+                        "word": "his"
+                    },
+                    {
+                        "start_time": "52.1s",
+                        "end_time": "52.4s",
+                        "word": "lip"
+                    },
+                    {
+                        "start_time": "52.4s",
+                        "end_time": "52.5s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "52.5s",
+                        "end_time": "52.9s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "53.2s",
+                        "end_time": "53.6s",
+                        "word": "just"
+                    },
+                    {
+                        "start_time": "53.6s",
+                        "end_time": "54.0s",
+                        "word": "seems"
+                    },
+                    {
+                        "start_time": "54.0s",
+                        "end_time": "54.2s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "54.2s",
+                        "end_time": "54.6s",
+                        "word": "three"
+                    },
+                    {
+                        "start_time": "54.6s",
+                        "end_time": "55.1s",
+                        "word": "inches"
+                    },
+                    {
+                        "start_time": "55.1s",
+                        "end_time": "55.3s",
+                        "word": "too"
+                    },
+                    {
+                        "start_time": "55.3s",
+                        "end_time": "55.6s",
+                        "word": "far"
+                    },
+                    {
+                        "start_time": "55.6s",
+                        "end_time": "55.9s",
+                        "word": "back"
+                    },
+                    {
+                        "start_time": "55.9s",
+                        "end_time": "56.0s",
+                        "word": "so"
+                    },
+                    {
+                        "start_time": "56.0s",
+                        "end_time": "56.1s",
+                        "word": "it"
+                    },
+                    {
+                        "start_time": "56.1s",
+                        "end_time": "56.2s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "56.2s",
+                        "end_time": "56.3s",
+                        "word": "like"
+                    },
+                    {
+                        "start_time": "57.8s",
+                        "end_time": "58.0s",
+                        "word": "this"
+                    },
+                    {
+                        "start_time": "58.0s",
+                        "end_time": "58.1s",
+                        "word": "is"
+                    },
+                    {
+                        "start_time": "58.1s",
+                        "end_time": "58.2s",
+                        "word": "the"
+                    },
+                    {
+                        "start_time": "58.2s",
+                        "end_time": "58.9s",
+                        "word": "ridiculous"
+                    },
+                    {
+                        "start_time": "59.3s",
+                        "end_time": "59.9s",
+                        "word": "eh"
+                    },
+                    {
+                        "start_time": "60.4s",
+                        "end_time": "60.7s",
+                        "word": "yeah."
+                    }
+                ]
+            }
+        ],
+        "language_code": "en-us"
+    }
+]

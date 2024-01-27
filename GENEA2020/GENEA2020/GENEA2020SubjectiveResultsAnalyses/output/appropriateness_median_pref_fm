@@ -1,0 +1,37 @@
+% fragmaster file by fig2fm.m version 2020-10-01
+% 
+% Page and document setup:
+% fmopt: width=17cm
+% fmclass: article
+% fmclassopt: a4paper,british,12pt
+% 
+% LaTeX preamble:
+% head:
+% \usepackage[english]{babel}
+% \usepackage{amsmath}
+% \usepackage{amssymb}
+% \usepackage{fix-cm}
+% \usepackage{fixltx2e}
+% end head
+
+% psfrag commands:
+\psfrag{xlabel1}[Bc][Bc][1]{...over system $x$, in terms of appropriateness}
+\psfrag{ylabel1}[Bc][Bc][1]{Significant preference for system $y$...}
+\psfrag{xt1}[Bc][Bc][1]{N}
+\psfrag{xt2}[Bc][Bc][1]{M}
+\psfrag{xt3}[Bc][Bc][1]{SC}
+\psfrag{xt4}[Bc][Bc][1]{SD}
+\psfrag{xt5}[Bc][Bc][1]{SE}
+\psfrag{xt6}[Bc][Bc][1]{SB}
+\psfrag{xt7}[Bc][Bc][1]{BA}
+\psfrag{xt8}[Bc][Bc][1]{BT}
+\psfrag{xt9}[Bc][Bc][1]{SA}
+\psfrag{yt1}[Br][Br][1]{N}
+\psfrag{yt2}[Br][Br][1]{M}
+\psfrag{yt3}[Br][Br][1]{SC}
+\psfrag{yt4}[Br][Br][1]{SD}
+\psfrag{yt5}[Br][Br][1]{SE}
+\psfrag{yt6}[Br][Br][1]{SB}
+\psfrag{yt7}[Br][Br][1]{BA}
+\psfrag{yt8}[Br][Br][1]{BT}
+\psfrag{yt9}[Br][Br][1]{SA}
