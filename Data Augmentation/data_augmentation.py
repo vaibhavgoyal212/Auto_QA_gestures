@@ -86,48 +86,49 @@ if __name__ == "__main__":
     parser.add_argument("--augmentation", '-a', help='Type of data augmentation to perform, look at info for more info (options are the studyseq numbers e.g. 41-80 for left-right swaps)')
     parser.add_argument("--noise_space", '-n', help='Specify whether to add noise to the bvh files or to the 3d Joint coordinates (they are roughly equal)')
     args = parser.parse_args()
-
+    dataset_path = 'D:/Year 4/HONS/Auto_QA_gestures/Dataset/'
+    synthesized_dataset_path = 'D:/Year 4/HONS/Auto_QA_gestures/Synthesised Dataset(subset)/'
     if (args.noise_space == 'joint_coords'):
         if (args.augmentation == '41-80'):
-            Conds = ['Cond_BA', 'Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
+            Conds = ['Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
             Studyseqs = range(1,41)
             for cond in Conds:
                 for i in Studyseqs:
-                    read_path = cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
-                    write_path = cond + '/motion_coords/StudySeq' + str(i+40) + '_joint_coords.csv'
+                    read_path = dataset_path + cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
+                    write_path = synthesized_dataset_path + cond + '/motion_coords/StudySeq' + str(i+40) + '_joint_coords.csv'
                     swap_left_right(read_path, write_path)
 
         if (args.augmentation == '81-6400'):
-            Conds = ['Cond_BA', 'Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
+            Conds = ['Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
             Studyseqs = range(1,81)
 
             n = 9 # number of times to generate a synthesised studyseq by adding random noise to the same studyseq
             for k in range(1,n+1):
                 for cond in Conds:
                     for i in Studyseqs:
-                        read_path = cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
-                        write_path = cond + '/motion_coords/StudySeq' + str(i+(80*k)) + '_joint_coords.csv'
+                        read_path = synthesized_dataset_path + cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
+                        write_path = synthesized_dataset_path + cond + '/motion_coords/StudySeq' + str(i+(80*k)) + '_joint_coords.csv'
                         add_noise(read_path, write_path)
     
     # This file must be placed in the pymo directory for the bvh arg to work
     if (args.noise_space == 'bvh'):
         if (args.augmentation == '41-3200'): # add noise to the bvh files first
-            Conds = ['Cond_BA', 'Cond_BT', 'Cond_N_60fps', 'Cond_M_60fps', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
+            Conds = ['Cond_BT', 'Cond_N_60fps', 'Cond_M_60fps', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
             Studyseqs = range(1,41)
 
             n = 9 # number of times to generate a synthesised studyseq by adding random noise to the same studyseq
             for k in range(1,n+1):
                 for cond in Conds:
                     for i in Studyseqs:
-                        read_path = '../Synthesised_Dataset/' + cond + '/bvh_files/StudySeq' + str(i) + '.bvh'
-                        write_path = '../Synthesised_Dataset/' + cond + '/bvh_files/StudySeq' + str(i+(40*k)) + '.bvh'
+                        read_path = synthesized_dataset_path +  cond + '/bvh_files/StudySeq' + str(i) + '.bvh'
+                        write_path = synthesized_dataset_path + cond + '/bvh_files/StudySeq' + str(i+(40*k)) + '.bvh'
                         add_noise_to_bvh(read_path, write_path)
 
         if (args.augmentation == '3200-6400'): # then swap left and right joints in the joint coordinate files
-            Conds = ['Cond_BA', 'Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
+            Conds = ['Cond_BT', 'Cond_N', 'Cond_M', 'Cond_SA', 'Cond_SB', 'Cond_SC', 'Cond_SD', 'Cond_SE']
             Studyseqs = range(1,401)
             for cond in Conds:
                 for i in Studyseqs:
-                    read_path = '../Synthesised_Dataset/' + cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
-                    write_path = '../Synthesised_Dataset/' + cond + '/motion_coords/StudySeq' + str(i+400) + '_joint_coords.csv'
+                    read_path = synthesized_dataset_path + cond + '/motion_coords/StudySeq' + str(i) + '_joint_coords.csv'
+                    write_path = synthesized_dataset_path + cond + '/motion_coords/StudySeq' + str(i+400) + '_joint_coords.csv'
                     swap_left_right(read_path, write_path)
