@@ -170,15 +170,19 @@ if __name__ == "__main__":
                 coord_info = coord_info.to_numpy()
                 left_elbow_angle, right_elbow_angle = compute_elbow_angle_from_shoulder_arm_forearm(coord_info)
                 #calculate the mean of the elbow angle
-                left_elbow_angle = np.mean(left_elbow_angle)
-                right_elbow_angle = np.mean(right_elbow_angle)
-                left_data = left_data + [left_elbow_angle]
-                right_data = right_data + [right_elbow_angle]
+                left_elbow_angle_mean = np.mean(left_elbow_angle)
+                right_elbow_angle_mean = np.mean(right_elbow_angle)
+                left_elbow_angle_max = np.max(left_elbow_angle)
+                right_elbow_angle_max = np.max(right_elbow_angle)
+                left_elbow_angle_min = np.min(left_elbow_angle)
+                right_elbow_angle_min = np.min(right_elbow_angle)
+                left_data = left_data + [(left_elbow_angle_mean, left_elbow_angle_max, left_elbow_angle_min)]
+                right_data = right_data + [(right_elbow_angle_mean, right_elbow_angle_max, right_elbow_angle_min)]
 
-        print(len(left_data))
-        feature_df = pd.DataFrame(left_data, columns = ['Left_Elbow_Angle'], index = dataframe_index)
-        feature_df['Right_Elbow_Angle'] = right_data
-        write_path = main_dir + dataset_path + "/" + feature_path + "/elbow_angle.csv"
+        feature_df_left = pd.DataFrame(left_data, columns = ['Left_Elbow_Angle_mean','Left_Elbow_Angle_max','Left_Elbow_Angle_min' ], index = dataframe_index)
+        feature_df_right = pd.DataFrame(right_data, columns = ['Right_Elbow_Angle_mean','Right_Elbow_Angle_max','Right_Elbow_Angle_min' ], index = dataframe_index)
+        feature_df = pd.concat([feature_df_left, feature_df_right], axis=1)
+        write_path = main_dir + dataset_path + "/" + feature_path + "/elbow_angle_props.csv"
         feature_df.to_csv(write_path)
 
     if (args.feature == "speed_of_hand_perpendicular_to_spine"):
